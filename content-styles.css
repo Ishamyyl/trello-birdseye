@@ -49,6 +49,18 @@
   display: none;
 }
 
+/* Board Nav Bars */
+.birdseye #header {
+  display: none;
+}
+
+.birdseye .board-header > * {
+  display: none;
+}
+
+.birdseye .board-header-btn-name, .birdseye .board-header-btns.mod-right {
+  display: initial;
+}
 
 /* Card details */
 
